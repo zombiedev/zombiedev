@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Banner" />
+  <img src="https://githubusercontent.com" onerror="this.src='https://giphy.com'" width="100%" alt="Coding Banner" />
 </p>
 
-# Привет! Я zombiedev 
+# Привет! Я zombiedev 👋
 
 ### Junior Python Developer | Linux & Cybersecurity Enthusiast
 
@@ -10,13 +10,10 @@
 
 ---
 
-🐧 **Окружение и OS:**
-<p align="left">
-  <img src="https://shields.io" alt="Arch Linux" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
+### 🛠️ Мой стек и инструменты
+
+* ⚙️ **Языки и технологии:** Python, Bash, Markdown
+* 🐧 **Окружение и OS:** Arch Linux, Git, GitHub, VS Code
 
 ---
 
