@@ -1,16 +1,42 @@
-## Hi there 👋
+# Привет! Я zombiedev 👋
 
-<!--
-**zombiedev/zombiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Python Developer
 
-Here are some ideas to get you started:
+Я начинающий разработчик на **Python**. Сейчас я прохожу путь от первых строк кода до создания самостоятельных скриптов. Моя цель — заложить прочный фундамент в базовом программировании, алгоритмах и структурах данных, чтобы в дальнейшем перейти к веб-разработке и автоматизации.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Мои навыки и инструменты
+
+⚙️ **Языки и разметка:**
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Markdown" />
+</p>
+
+🧰 **Инструменты и среды разработки:**
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="PyCharm" />
+</p>
+
+---
+
+### 🚀 Что я делаю прямо сейчас
+
+- 🌱 **Что активно изучаю:** Объектно-ориентированное программирование (ООП), основы работы с базами данных и правильное структурирование проектов.
+- 💻 **Мои первые шаги:** Пишу консольные утилиты, решаю логические задачи и разбираюсь с базовым контролем версий в Git.
+- 🎯 **Планы на будущее:** Освоить работу с API сторонних сервисов и написать своего первого полезного Telegram-бота.
+
+---
+
+### 📈 Статистика профиля
+
+<p align="left">
+  <img src="https://vercel.app" alt="zombiedev github stats" height="180" />
+  <img src="https://vercel.app" alt="zombiedev top langs" height="180" />
+</p>
+
+---
