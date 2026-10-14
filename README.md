@@ -10,15 +10,6 @@
 
 ---
 
-### 🛠️ Мой стек и инструменты
-
-⚙️ **Языки и технологии:**
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Bash" />
-  <img src="https://shields.io" alt="Markdown" />
-</p>
-
 🐧 **Окружение и OS:**
 <p align="left">
   <img src="https://shields.io" alt="Arch Linux" />
@@ -34,14 +25,5 @@
 - ⚙️ **Осваиваю Linux:** Активно изучаю администрирование систем на базе **Arch Linux**, кастомизирую окружение и учусь автоматизировать рутину через терминал.
 - 🌱 **Развиваю Python:** Пишу базовые скрипты, изучаю алгоритмы и принципы автоматизации задач.
 - 🎯 **Планы на будущее:** В ближайшее время планирую погрузиться в сферу **кибербезопасности (Cybersecurity)**, изучать сети, уязвимости программного обеспечения и методы защиты данных.
-
----
-
-### <img src="https://giphy.com" width="25" /> Статистика активности
-
-<p align="left">
-  <img src="https://vercel.app" alt="zombiedev github stats" height="180" />
-  <img src="https://vercel.app" alt="zombiedev top langs" height="180" />
-</p>
 
 ---
