@@ -2,7 +2,7 @@
   <img src="https://vercel.app" width="100%" alt="Banner" />
 </p>
 
-# Привет! Я zombiedev 👋
+# Привет! Я zombiedev 
 
 ### Junior Python Developer | Linux & Cybersecurity Enthusiast
 
