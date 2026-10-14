@@ -31,12 +31,3 @@
 - 🎯 **Планы на будущее:** Освоить работу с API сторонних сервисов и написать своего первого полезного Telegram-бота.
 
 ---
-
-### 📈 Статистика профиля
-
-<p align="left">
-  <img src="https://vercel.app" alt="zombiedev github stats" height="180" />
-  <img src="https://vercel.app" alt="zombiedev top langs" height="180" />
-</p>
-
----
