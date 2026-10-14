@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Code Coding GIF by EscuelaDevRock.gif" width="100%" alt="Coding Banner" />
+</p>
+
 # 💻 zombiedev | Terminal Profile
 > **[ STATUS ]** Actively learning & building...
 ---
