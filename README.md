@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Code Coding GIF by EscuelaDevRock.gif" width="100%" alt="Coding Banner" />
+  <img src="Code Coding GIF by EscuelaDevRock.gif" width="200" alt="Python Logo" />
 </p>
 
 # 💻 zombiedev | Terminal Profile
